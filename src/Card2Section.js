@@ -2,12 +2,7 @@ import { Box, Card, CardContent, CardMedia, Typography, Grid, Container } from "
 
 export default function Card2Section({ isDarkMode }) {
   const cardData = [
-    {
-      title: "Web Development",
-      subtitle: "by Code Academy",
-      description: "Master HTML, CSS, JavaScript, and frameworks like React.",
-      image: "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg",
-    },
+    
     {
       title: "Cyber Security",
       subtitle: "by SecureTech",
