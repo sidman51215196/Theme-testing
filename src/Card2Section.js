@@ -20,6 +20,24 @@ export default function Card2Section({ isDarkMode }) {
       description: "Explore AWS, Azure, and Google Cloud fundamentals.",
       image: "https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg",
     },
+    {
+        title: "Programming Blogs",
+        subtitle: "by Semaphore",
+        description: "Checkout the latest blogs on Semaphore. Semaphore provides the best CI/CD solutions.",
+        image: "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg",
+      },
+      {
+        title: "Frontend Development",
+        subtitle: "by Dev Community",
+        description: "Explore the latest trends in frontend development and enhance your web skills.",
+        image: "https://images.pexels.com/photos/3182784/pexels-photo-3182784.jpeg",
+      },
+      {
+        title: "Machine Learning",
+        subtitle: "by AI Hub",
+        description: "Learn about AI, neural networks, and machine learning applications.",
+        image: "https://images.pexels.com/photos/1181315/pexels-photo-1181315.jpeg",
+      },
   ];
 
   return (
